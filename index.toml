@@ -190,6 +190,11 @@ hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "7cbd5497749ea5d4afb2bc747841ca858a81acd36ab2bfec84acd33826dd1cda"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "23ac523b2e9653540f71083be36ef52b541bb09ca10b8c5402e3595c134c7e6b"
 metafile = true
