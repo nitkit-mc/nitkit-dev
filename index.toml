@@ -50,6 +50,11 @@ hash = "3f032215116d0577a550e2863684419b275a04247701dc7f6957ccbaaefd8e8c"
 metafile = true
 
 [[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "ade9d9ce0200212f7415190f0a99e60e2f10569dca10a962f094fbd8a2f14bf4"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
 metafile = true
