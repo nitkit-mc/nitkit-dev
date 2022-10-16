@@ -5,11 +5,11 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1BCkW8RE/iris-mc1.18.2-1.4.0.jar"
 hash-format = "sha1"
-hash = 
+hash = "85580ef71ce123d7333e94539aa1a2c55010565b"
+
 [option]
 optional=true
 default=true
-"85580ef71ce123d7333e94539aa1a2c55010565b"
 
 [update]
 [update.modrinth]
